@@ -1,0 +1,8 @@
+# Fábio Araujo @fa_bioaraujo https://fabioaraujo.info
+# Arquivo para substituir DB_NAME do docker-compose.yml
+
+version: '3'
+services:
+  app:
+    environment:
+      - DB_NAME=email_sender
