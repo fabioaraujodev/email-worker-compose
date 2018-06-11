@@ -11,4 +11,4 @@ Exemplo completo de uma aplicação com múltiplos serviços em docker.
 * Workers para envio de e-mail (escalável) • Aplicação principal
 
 Se precisar falar comigo:
-[contato](https://www.fabioaraujo.info/).
+[contato](https://www.fabioaraujo.info/).# email-worker-compose
