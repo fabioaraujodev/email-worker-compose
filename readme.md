@@ -8,7 +8,8 @@ Exemplo completo de uma aplicação com múltiplos serviços em docker.
 * Servidor web
 * Banco de dados
 * Gerenciamento de filas
-* Workers para envio de e-mail (escalável) • Aplicação principal
+* Workers para envio de e-mail (escalável) 
+* Aplicação principal
 
 Se precisar falar comigo:
-[contato](https://www.fabioaraujo.info/).# email-worker-compose
+[contato](https://www.fabioaraujo.info/)
